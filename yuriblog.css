@@ -18,3 +18,8 @@ body{
     border-radius: 10rem;
     border: 1px solid gray;
 }
+
+.img-proyectos{
+    width: 400px;
+    background-image: url("img/lista-tareas.jpg");
+}
